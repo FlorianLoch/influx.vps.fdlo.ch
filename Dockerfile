@@ -1,4 +1,4 @@
-FROM influxdb:2.3.0-alpine
+FROM influxdb:2.4.0-alpine
 
 USER nobody
 
